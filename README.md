@@ -7,4 +7,4 @@ To Install this Chrome Extension, navigate to chrome://extensions, enable develo
 
 # Usage
 
-To use this extension simply click on the "Convert Now!" button, and a qr code with the url of the current tab will be displayed.
+To use this extension simply click on the "Convert Now!" button, and a QR code with the URL of the current Chrome tab will be displayed.
